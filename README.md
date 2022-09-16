@@ -1,1 +1,1 @@
-# Machine-Learning-Projects-with-Python-for-Beginners
+# Machine Learning Projects with Python for Beginners
